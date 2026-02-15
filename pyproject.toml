@@ -1,0 +1,39 @@
+[build-system]
+requires = ["setuptools>=64", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "tracemem"
+version = "0.1.0"
+description = "TraceMem: Weaving Narrative Memory Schemata from User Conversational Traces"
+readme = "README.md"
+requires-python = ">=3.9"
+license = {text = "MIT"}
+keywords = ["LLM", "memory", "conversation", "narrative", "clustering"]
+
+dependencies = [
+    "numpy==1.26.4",
+    "redis==7.1.0",
+    "chromadb==1.4.1",
+    "loguru==0.7.3",
+    "pydantic==2.12.5",
+    "scikit-learn==1.7.2",
+    "umap-learn==0.5.9.post2",
+    "hdbscan==0.8.41",
+    "openai==2.14.0",
+    "requests==2.32.5",
+    "python-dotenv==1.2.1",
+    "tqdm==4.67.1",
+    "matplotlib==3.10.8",
+    "pandas==2.3.3"
+]
+
+[project.urls]
+Homepage = "https://github.com/YimingShu-teay/TraceMem"
+Repository = "https://github.com/YimingShu-teay/TraceMem"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+"*" = ["*.yaml", "*.yml", "*.json"]

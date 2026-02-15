@@ -1,0 +1,11 @@
+
+*.egg-info/
+*.egg
+build/
+dist/
+
+
+**/__pycache__/
+
+chroma_db/
+cards/
