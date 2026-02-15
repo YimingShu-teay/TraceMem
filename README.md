@@ -19,7 +19,7 @@
 - [🔍 Agentic Search](#-agentic-search)
 - [⚙️ Installation](#-installation)
 - [📊 Evaluation](#-evaluation)
-- [✅ ToDo List](#-to-do-list)
+- [✅ To Do List](#-to-do-list)
 - [💬 Open Discussion](#-open-discussion)
 - [🔗 Related Projects](#-related-projects)
 
