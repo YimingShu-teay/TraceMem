@@ -87,9 +87,20 @@ export BASE_URL="your choice"
 
 
 
+## 📊 Quick Evaluation
+
+```shell
+cd results
+python evals.py --input_file conversation_results_4o_mini.json --output_file evaluation_metrics_4o_mini.json
+python evals.py --input_file conversation_results_4.1_mini.json --output_file evaluation_metrics_4.1_mini.json
+python generate_scores.py
+```
+
+
+
 ## 📊 Evaluation
 
-```python
+```shell
 python evaluation/locomo/add.py
 python evaluation/locomo/build.py
 python evaluation/locomo/answer.py
