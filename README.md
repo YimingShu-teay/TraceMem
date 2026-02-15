@@ -13,6 +13,7 @@
   </p>
 </div>
 
+
 ## 📋 Contents
 
 - [🏗️ Core Architecture](#-core-architecture)
@@ -104,6 +105,7 @@ python evaluation/locomo/generate_scores.py
 - [🗃️ docs](https://github.com/YimingShu-teay/TraceMem/tree/main/docs)
 - [🤖 More Models Support](https://github.com/YimingShu-teay/TraceMem/tree/main/src/tracemem)
 - [🔌 MCP](https://github.com/YimingShu-teay/TraceMem/tree/main/mcp)
+- [🔧 skills]()
 
 ## 💬 Open Discussion  
 Delving into the mechanics of human memory, some studies support the fact that **memory is rewritten each time it is retrieved. Essentially, it means that every act of recollection holds the potential to update information or trigger subtle reorganizations**. This malleability is particularly intriguing for interactive agents, as an agent retrieves past experiences to inform current responses, its memory is not merely accessed but potentially reshaped, contributing to a dynamic where memory may evolve through active conversation and internal monologue, potentially leading to alterations over time.
