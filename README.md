@@ -19,7 +19,7 @@
 - [🏗️ Core Architecture](#-core-architecture)
 - [🔍 Agentic Search](#-agentic-search)
 - [⚙️ Installation](#-installation)
-- [📊 Qiuck Evaluation](#-qiuck-evaluation)
+- [📊 Quick Evaluation](#-quick-evaluation)
 - [📊 Evaluation](#-evaluation)
 - [✅ To Do List](#-to-do-list)
 - [💬 Open Discussion](#-open-discussion)
