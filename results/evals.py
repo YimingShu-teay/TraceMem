@@ -62,8 +62,8 @@ def main():
                 for k, items in local_results.items():
                     results[k].extend(items)
                     
-    import os
-    os.makedirs("results", exist_ok=True)
+    # import os
+    # os.makedirs("results", exist_ok=True)
     # Save results to JSON file
     with open(args.output_file, "w") as f:
         json.dump(results, f, indent=4)
