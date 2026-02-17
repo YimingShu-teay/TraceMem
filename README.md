@@ -162,7 +162,7 @@ Looking ahead, we may develop agents endowed with diverse personality traits, ra
 </table>
 
 
-## 🪩🆙 Citation
+## 🆙 Citation
 
 ```
 @article{shu2026tracemem,
