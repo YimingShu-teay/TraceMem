@@ -161,3 +161,15 @@ Looking ahead, we may develop agents endowed with diverse personality traits, ra
   </tr>
 </table>
 
+
+## 🪩🆙 Citation
+
+```
+@article{shu2026tracemem,
+  title={TraceMem: Weaving Narrative Memory Schemata from User Conversational Traces},
+  author={Shu, Yiming and Liu, Pei and Zhang, Tiange and Gao, Ruiyang and Ma, Jun and Sun, Chen},
+  journal={arXiv preprint arXiv:2602.09712},
+  year={2026}
+}
+```
+
