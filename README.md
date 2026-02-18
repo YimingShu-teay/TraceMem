@@ -173,3 +173,6 @@ Looking ahead, we may develop agents endowed with diverse personality traits, ra
 }
 ```
 
+## 📄License 
+
+This project is licensed under the MIT License. See LICENSE for details.
