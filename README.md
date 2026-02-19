@@ -51,6 +51,48 @@ TraceMem employs a three-stage pipeline to transform raw conversational traces i
 <img src="assets/framework.png" alt="TraceMem Architecture Overview" width="100%">
 
 
+
+### An example of the User Card for index:
+
+```
+{
+  "theme_title": "James' Multifaceted Journey: Dogs, Gaming, Personal Growth, Community Engagement, Hobbies, Travel Adventures, and Social Connections",
+  "topics": [
+    {
+      "topic_title": "James' Journey with Dogs, Gaming, and Personal Growth",
+      "threads": [
+        {
+          "thread_title": "James' Adventures with His Dogs",
+          "summary": "James shares experiences of hiking with his dogs, enjoying nature, and exploring trails...",
+          "thread_id": "18546131-5278-451a-83e2-bd8b7d45f722"
+        },
+        {
+          "thread_title": "James and His Journey with Dogs",
+          "summary": "James adopted a puppy named Ned from a shelter in Stamford, making him much happier...",
+          "thread_id": "be809445-abe6-438c-9b22-9bbdbbb298b2"
+        },
+        {
+          "thread_title": "James' Dog Walking App and Gaming Adventures",
+          "summary": "James has two dogs, Max and Daisy. He plans to build an app for dog walking and pet care...",
+          "thread_id": "aee1996b-1dfc-44e4-8a52-1757f7ff1ff9"
+        },
+        {
+          "thread_title": "James and His Joyful Dogs",
+          "summary": "James shares a photo of his two dogs playing in the park...",
+          "thread_id": "d05d42a8-9e38-4ffc-95db-65a1274bd37c"
+        },
+        {
+          "thread_title": "James' Recent Experiences and Support System",
+          "summary": "James shares a mix of good and bad events...",
+          "thread_id": "5e0faf5a-93a3-4f68-a694-c4ae61675332"
+        }
+      ]
+    },
+    ...
+```
+
+
+
 ## 🔍 Agentic Search
 
 To utilize these memories, TraceMem employs an **Agentic Search** mechanism:
