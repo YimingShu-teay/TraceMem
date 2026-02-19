@@ -54,7 +54,7 @@ TraceMem employs a three-stage pipeline to transform raw conversational traces i
 
 ### An example of the User Card for index:
 
-```
+```json
 {
   "theme_title": "James' Multifaceted Journey: Dogs, Gaming, Personal Growth, Community Engagement, Hobbies, Travel Adventures, and Social Connections",
   "topics": [
